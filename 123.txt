@@ -1,0 +1,7 @@
+double d = 6;
+		double p = 3.14;
+		double L = p * d;
+		System.out.println(L);
+                Int x = 8;
+	}
+}
