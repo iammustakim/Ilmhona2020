@@ -22,7 +22,7 @@ public class Main {
         System.out.println("Размеры:" + box2.weight + "см x " + box2.length + "см");
         System.out.println("Материал:" + box2.material);
         System.out.println("Вес:" + box2.weight + "кг");
-        
+
     }
 }
 class Box {
